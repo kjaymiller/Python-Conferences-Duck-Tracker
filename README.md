@@ -1,4 +1,6 @@
-# Python Conference Data Analyzer
+# Python Conferences Duck Tracker
+
+![](img/screenshot.png)
 
 A Python script that fetches and analyzes Python conference data from the [python-organizers/conferences](https://github.com/python-organizers/conferences) repository. The script provides insights about upcoming conferences, open Call for Proposals (CFPs), and historical conference data.
 
